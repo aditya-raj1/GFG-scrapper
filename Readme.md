@@ -96,3 +96,7 @@ List of Topic URLs that have I've fetched. You can [download these from the rele
 * https://www.geeksforgeeks.org/tag/ibm/
 * https://www.geeksforgeeks.org/tag/uber/
 * https://www.geeksforgeeks.org/tag/appdynamics/
+
+**To Compare more of the gfg scrapper**
+* https://github.com/Adityaraj1711/GFG-Scrapper
+This is the latest and most recent repo for GFG with some more inbuilt features.
