@@ -1,5 +1,6 @@
 #!/usr/bin/env python3.6
 """
+Helper text
 Run Pandoc to convert an HTML to PDF.
 
 Usage: html_to_pdf [options] <src>
@@ -12,9 +13,7 @@ Options:
 """
 
 import os
-
 import subprocess
-
 from docopt import docopt
 import json
 from collections import OrderedDict
