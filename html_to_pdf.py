@@ -9,6 +9,7 @@ Options:
     -t --tex         Convert to PDF instead of tex
     -f --force       Overwrite destination
     -v --verbose     Make pandoc be verbose
+helper text
 """
 
 import os
