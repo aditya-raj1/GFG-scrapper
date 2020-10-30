@@ -29,6 +29,7 @@ FNAME = ROOT_JSON + f"{TAG}.json"
 
 def abort(msg):
     print(msg, file=sys.stderr)
+    print("aborting!!!")
     exit(1)
 
 
